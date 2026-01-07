@@ -1,0 +1,19 @@
+ Bandit level 0 -> 1
+
+## Objective  
+To find the password for the next level from a file.
+
+## Commands used  
+ls -- to list files in the directory  
+cat -- to read the file  
+du -- to check disk usage  
+file -- to check the file type  
+cd -- to move to another directory  
+
+## Explanation  
+In this level, the ls command was used to see the files in the home directory.
+The cat command was used to read the file and get the password for the next level.
+
+## Outcomes  
+Learned how to use basic Linux commands.  
+flag: ZjLjTmM6FvvyRnrB2rfNWOZOTa6ip5If
